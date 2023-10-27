@@ -1,0 +1,241 @@
+1697963052506	geckodriver	INFO	Listening on 127.0.0.1:65212
+1697963055565	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileuosLEC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697963056032	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697963056150	Marionette	INFO	Listening on port 65223
+WebDriver BiDi listening on ws://127.0.0.1:65213
+Read port: 65223
+1697963056378	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65213/devtools/browser/77260b25-3074-4edb-9425-1e6aa243d6c2
+1697963059563	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963062903	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963085907	Marionette	INFO	Stopped listening on port 65223
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5406: TypeError: request.channel is null
+1697963086355	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: null, errorCode: 5, reason: error
+1697963154690	geckodriver	INFO	Listening on 127.0.0.1:65522
+1697963157779	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileOSHT6c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697963159955	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697963160534	Marionette	INFO	Listening on port 49161
+Read port: 49161
+WebDriver BiDi listening on ws://127.0.0.1:65523
+1697963160972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:65523/devtools/browser/a6999e10-b4a9-4fe2-b668-eaefe73e7168
+1697963166701	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963170032	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963257029	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:219:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:203:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:429:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:178:31
+JavaScript warning: https://main.sci.gov.in/sites/all/modules/jquery_update/replace/jquery/3.1/jquery.min.js?v=3.1.1, line 3: Script terminated by timeout at:
+add/q.handle@https://main.sci.gov.in/sites/all/modules/jquery_update/replace/jquery/3.1/jquery.min.js?v=3.1.1:3:8265
+
+1697963271517	Marionette	INFO	Stopped listening on port 49161
+Dynamically enable window occlusion 1
+1697963273135	geckodriver	INFO	Listening on 127.0.0.1:49395
+1697963276203	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 6" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileGTgoi3"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697963276558	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697963276668	Marionette	INFO	Listening on port 49406
+WebDriver BiDi listening on ws://127.0.0.1:49396
+Read port: 49406
+1697963276880	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49396/devtools/browser/4b968a7f-eba4-40e1-a80c-396dc72af0ab
+1697963279974	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963283315	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963302974	Marionette	INFO	Stopped listening on port 49406
+Dynamically enable window occlusion 1
+1697963391578	geckodriver	INFO	Listening on 127.0.0.1:49922
+1697963394649	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 3" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileSVfXws"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697963394926	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697963395022	Marionette	INFO	Listening on port 49933
+WebDriver BiDi listening on ws://127.0.0.1:49923
+Read port: 49933
+1697963395214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49923/devtools/browser/4c1669aa-9232-419c-882e-000cd7890916
+1697963398215	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963401583	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697963422249	Marionette	INFO	Stopped listening on port 49933
+Dynamically enable window occlusion 1
+1697964052393	geckodriver	INFO	Listening on 127.0.0.1:50424
+1697964055453	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileiMZBj9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697964055703	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697964055790	Marionette	INFO	Listening on port 50433
+WebDriver BiDi listening on ws://127.0.0.1:50425
+Read port: 50433
+1697964055985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50425/devtools/browser/0f42afc2-73cd-40b6-b823-3a181b706b90
+1697964058952	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697964062314	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697964085853	Marionette	INFO	Stopped listening on port 50433
+Dynamically enable window occlusion 1
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5406: TypeError: request.channel is null
+JavaScript error: resource://gre/modules/AddonManager.sys.mjs, line 1284: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+1697964251506	geckodriver	INFO	Listening on 127.0.0.1:50704
+1697964254549	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileLPrah4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697964255005	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697964255115	Marionette	INFO	Listening on port 50715
+WebDriver BiDi listening on ws://127.0.0.1:50705
+Read port: 50715
+1697964255342	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:50705/devtools/browser/b39776f7-5926-426e-9b8f-022ae98d6203
+1697964258293	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697964261658	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965128396	Marionette	INFO	Stopped listening on port 50715
+Dynamically enable window occlusion 1
+1697965131100	geckodriver	INFO	Listening on 127.0.0.1:51388
+1697965134174	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofile2pqioa"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697965134528	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697965134632	Marionette	INFO	Listening on port 51400
+WebDriver BiDi listening on ws://127.0.0.1:51389
+Read port: 51400
+1697965134862	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51389/devtools/browser/a27a1f2e-a7e5-4e6b-8994-3c8c4222e71d
+1697965137936	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965141279	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965161130	Marionette	INFO	Stopped listening on port 51400
+Dynamically enable window occlusion 1
+1697965194599	geckodriver	INFO	Listening on 127.0.0.1:51568
+1697965197638	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 9" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileCCXxa9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697965197930	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697965198022	Marionette	INFO	Listening on port 51577
+WebDriver BiDi listening on ws://127.0.0.1:51569
+Read port: 51577
+1697965198227	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51569/devtools/browser/53d3d6f9-2610-4675-ba0f-b381d998a624
+1697965201277	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965204640	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965222393	Marionette	INFO	Stopped listening on port 51577
+Dynamically enable window occlusion 1
+1697965287588	geckodriver	INFO	Listening on 127.0.0.1:51826
+1697965290624	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 7" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofile8VzBLd"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697965291037	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697965291147	Marionette	INFO	Listening on port 51840
+WebDriver BiDi listening on ws://127.0.0.1:51827
+Read port: 51840
+1697965291361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1697965293455	Marionette	INFO	Stopped listening on port 51840
+Dynamically enable window occlusion 1
+1697965293465	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 573: AbortError: Actor 'Conduits' destroyed before query 'RunListener' was resolved
+1697965300633	geckodriver	INFO	Listening on 127.0.0.1:51860
+1697965303694	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 1" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofilen4bGRl"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697965303936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697965304032	Marionette	INFO	Listening on port 51869
+WebDriver BiDi listening on ws://127.0.0.1:51861
+Read port: 51869
+1697965304251	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51861/devtools/browser/f626d787-23d0-459a-a814-88b9d1217006
+1697965306306	Marionette	INFO	Stopped listening on port 51869
+Dynamically enable window occlusion 1
+1697965334704	geckodriver	INFO	Listening on 127.0.0.1:51911
+1697965337766	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 2" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofilemSiZGB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697965338114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697965338217	Marionette	INFO	Listening on port 51922
+WebDriver BiDi listening on ws://127.0.0.1:51912
+Read port: 51922
+1697965338438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51912/devtools/browser/e73ad518-b90e-4b6b-98a0-5876ff99cb96
+1697965341853	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965345109	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://main.sci.gov.in/sites/all/modules/jquery_update/replace/jquery/3.1/jquery.min.js?v=3.1.1, line 3: Script terminated by timeout at:
+dispatch@https://main.sci.gov.in/sites/all/modules/jquery_update/replace/jquery/3.1/jquery.min.js?v=3.1.1:3:9743
+add/q.handle@https://main.sci.gov.in/sites/all/modules/jquery_update/replace/jquery/3.1/jquery.min.js?v=3.1.1:3:8342
+
+1697965354501	Marionette	INFO	Stopped listening on port 51922
+Dynamically enable window occlusion 1
+1697965386503	geckodriver	INFO	Listening on 127.0.0.1:52064
+1697965389568	mozrunner::runner	INFO	Running command: "C:/Program Files/Mozilla Firefox/firefox.exe" "--marionette" "user-agent=Mozilla/5.0 (Windows NT 10.0; Win6 ... 5" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\spvis\\AppData\\Local\\Temp\\rust_mozprofileWXCa6M"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697965389888	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+console.error: "Warning: unrecognized command line flag" "-disable-extensions"
+console.error: "Warning: unrecognized command line flag" "-disable-dev-shm-usage"
+console.error: "Warning: unrecognized command line flag" "-disable-setuid-sandbox"
+console.error: "Warning: unrecognized command line flag" "-disable-breakpad"
+1697965389979	Marionette	INFO	Listening on port 52075
+WebDriver BiDi listening on ws://127.0.0.1:52065
+Read port: 52075
+1697965390193	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52065/devtools/browser/b95ec044-8611-4c86-9be5-b30d5b55178f
+1697965393419	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965396747	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1697965415362	Marionette	INFO	Stopped listening on port 52075
+Dynamically enable window occlusion 1
